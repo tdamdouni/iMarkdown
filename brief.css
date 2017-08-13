@@ -1,0 +1,78 @@
+/* http://cricetus.com/brief.css */
+/* http://maennig.de/briefe-markdown/ */
+
+body {
+	margin:0;
+}
+
+#wrapper {
+	margin-top: 0.6cm;
+	margin-bottom: 2cm;
+	margin-left: 2.4cm !important;
+	margin-right: 2.5cm
+}
+
+body {
+	font-family: "OfficinaSanITCBoo";
+	font-size: 10pt
+}
+
+h1 {
+	font-family: "OfficinaSanITCBol";
+	font-size: 10pt;
+	font-weight: normal;
+	margin-bottom: 10pt;
+}
+
+h2 {
+	font-family: "OfficinaSanITCBoo";
+	font-size: 18pt;
+	font-weight: normal;
+	margin-top: 0;
+	margin-bottom: 18pt
+}
+
+h3 {
+	text-align: center;
+	font-size: 10pt;
+	font-weight: normal
+}
+
+h4 {
+	text-align: right;
+	font-size: 10pt;
+	font-weight: normal
+}
+
+h5 {
+	font-family: "RotisSansSerif";
+	font-size: 18pt;
+	font-weight: normal;
+	margin-top: 0;
+	margin-bottom: 12pt
+}
+
+h6 {
+	font-family: "RotisSansSerif";
+	font-size: 8pt;
+	font-weight: normal;
+	margin-top: 4pt;
+	margin-bottom: 0
+}
+
+strong {
+	font-family: "OfficinaSanITCBol"
+}
+
+em {
+	font-family: "OfficinaSanITCBooIta"
+}
+
+ul, ol {
+    padding-left: 20pt
+}
+
+blockquote {
+    margin-left: 20pt;
+    font-family: "OfficinaSanITCBooIta"
+}
